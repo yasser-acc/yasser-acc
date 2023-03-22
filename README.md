@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yasser MASTOUR</h1>
 <h3 align="center">A passionate web developer from Morroco</h3>
-<img align="right" alt="Coding" width="400" height="auto" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasser-acc&label=Profile%20views&color=0e75b6&style=flat" alt="yasser-acc" /> </p>
 
 - 🔭 I’m currently working on [portfolio website templates project](https://github.com/yasser-acc/Portfolio-websites-templates)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yasser-acc](https://github.com/yasser-acc)
 
-- 💬 Ask me about **PHP, Javascript, HTML, CSS**
+- 💬 Ask me about **PHP,Javascript, HTML, CSS**
 
-- 📫 How to reach me **yr.mastour@gmail.com**
-
-- ⚡ Fun fact **Did you know that web developers have a secret language called "CSS"? It's a language made up entirely of acronyms, abbreviations, and symbols that nobody else can understand. Some say that it's the only language in the world that can make a grown person cry. But don't worry, if you ever need help deciphering CSS, just remember that web developers are always happy to lend a helping hand (or a tissue).**
+- ⚡ Fun fact **Did you know that web developers have a secret language called "CSS"? It's a language made up entirely of acronyms, abbreviations, and symbols that nobody else can understand. But don't worry, if you ever need help deciphering CSS, just remember that web developers are always happy to lend a helping hand (or a tissue).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
