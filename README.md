@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on [portfolio website templates project](https://github.com/yasser-acc/Portfolio-websites-templates)
 
-- 🌱 I’m currently learning **Kotlin** and **React**
-
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP,Javascript, HTML, CSS**
 
