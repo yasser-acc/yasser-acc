@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasser-acc&label=Profile%20views&color=0e75b6&style=flat" alt="yasser-acc" /> </p>
 
-- 🔭 I’m currently working on [Expenses Tracker](https://github.com/yasser-acc/expenses-tracker) and [scratch pad](https://github.com/yasser-acc/scratch-pad)
+- 🔭 I’m currently working on [Expenses Tracker](https://github.com/yasser-acc/expenses-tracker) and [scratch pad](https://github.com/yasser-acc/scratch-pad) projects
 
 - 🌱 I’m currently learning **React**
 
